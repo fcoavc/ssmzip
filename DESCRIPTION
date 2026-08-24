@@ -1,1 +1,1 @@
-
+Package: ZIP-SSM Type: Package Title: Zero-Inflated Poisson State Space Model Version: 0.1.0 Authors@R: c( person("Francisco", "", role = c("aut", "cre"), email = "") ) Description: Implementación completa del modelo ZIP-SSM, incluyendo inicialización, aproximación gaussiana, verosimilitud, estimación EM, muestreo por importancia y funciones de simulación. Diseñado para análisis de series de tiempo con inflación de ceros y estructura de espacio de estados. License: MIT Encoding: UTF-8 LazyData: true Roxygen: list(markdown = TRUE) RoxygenNote: 7.3.1
