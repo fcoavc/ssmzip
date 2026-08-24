@@ -1,4 +1,4 @@
-Package: ZIP-SSM
+Package: ssmzip
 Type: Package
 Title: Zero-Inflated Poisson State Space Model
 Version: 0.1.0
