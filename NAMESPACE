@@ -1,1 +1,11 @@
+#Exportar funciones principales del paquete ZIP-SSM
 
+export(zip_initialization) export(zip_densities) export(zip_likelihood) export(zip_EM) export(zip_importance_sampling) export(zip_simulation)
+
+#Importar funciones necesarias de otros paquetes (si aplica)
+
+importFrom(stats, rnorm, optim)
+
+importFrom(utils, read.csv)
+
+#Mantener el archivo limpio y mínimo; se expandirá conforme el paquete crezca.
